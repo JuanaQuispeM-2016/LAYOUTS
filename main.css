@@ -15,6 +15,8 @@ img{
 	margin: 10px 0;
 	padding: 10px 0;
 	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin-bottom: 10px;
 }
 .menu li{
 	display: inline-block;
@@ -25,4 +27,41 @@ img{
 	color: black;
 	font-size: 20px;
 	padding: 7px 16px;
+}
+.uno{margin-bottom:7px;
+margin-top: 10px;}
+.color{
+	background-color: grey;
+    width: 50px;
+    height: 1px;
+}
+
+p{text-align:center;
+margin-right: 230px;
+margin-left: 180px;}
+
+h1{text-align: left;
+font-size: 15px;}
+.list-sin-estilo {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.list-coders{
+	margin: 20px 0 0 0;
+	text-align: center;
+}
+.list-coders li { display: inline-block; width: 28%; margin: 8px; }
+.list-coders a{ display: block; position: relative; color: #FFF; }
+.list-coders p { margin: 0; position: absolute; bottom:10px; right: 10px; }
+
+.coders
+{
+	text-align: left;
+}
+.tipo{
+	background-color: black;
+    width: 40px;
+    height: 2px;
+    margin-left: 0px;
 }
